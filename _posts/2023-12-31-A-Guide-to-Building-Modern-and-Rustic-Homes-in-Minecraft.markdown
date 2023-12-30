@@ -3,7 +3,8 @@ layout: post
 title: "A Guide to Building Modern and Rustic Homes in Minecraft"
 date:   2023-12-29 20:43:53 +0000
 categories: News
-
+excerpt: "There are two main styles to consider when building a home in Minecraft - modern or rustic. Modern homes have clean lines, symmetrical designs, and use blocks like stone, glass, and concrete powder. Rustic homes have a more organic feel, incorporating wood, stone, and foliage into their builds. Consider which style suits your vision before starting to gather resources."
+image: "https://i.ytimg.com/vi/s6ioGrsqTrs/maxresdefault.jpg"
 ---
 ## Choosing Your Building Style
 
