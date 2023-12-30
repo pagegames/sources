@@ -4,7 +4,7 @@ title: "How to Successfully Customize Your Minecraft Skin"
 date:   2023-12-30 02:37:02 +0000
 categories: Minecraft
 excerpt: "Skin editing softwares like Skindex, PMCSkin3D and online options allow users to customize their Minecraft avatar. PMCSkin3D stands out with advanced tools to sculpt any Minecraft entity at high resolution. It supports intricate designs across entities like characters, mobs and blocks."
-default_image: "https://i.ytimg.com/vi/Zkcd5qAwv3w/maxresdefault.jpg"
+excerpt_image: "https://i.ytimg.com/vi/Zkcd5qAwv3w/maxresdefault.jpg"
 ---
 ### Choosing a Skin Editor
 Skin editing softwares like Skindex, PMCSkin3D and online options allow users to customize their Minecraft avatar. PMCSkin3D stands out with advanced tools to sculpt any Minecraft entity at high resolution. It supports intricate designs across entities like characters, mobs and blocks.
