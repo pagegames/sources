@@ -1,1 +1,1 @@
-[pagegames/sources](http://pagegames.github.io/sources)
+[pagegames/sources](http://pagegames.github.io/sources/)
